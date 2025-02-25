@@ -113,7 +113,7 @@ body {
     position: absolute;
     top: 10%;
     left: 5%;
-    width: 40%;
+    width: 35%;
     animation-name: zoom;
     animation-duration: 2s;
     animation-fill-mode: forwards;
@@ -227,5 +227,10 @@ body {
     .navbar-icon{
         display: block;
         cursor: pointer;
+    }
+    .sale-img__ad{
+        top: 10px;
+        width: 50%;
+        padding: 5px;
     }
 }
