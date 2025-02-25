@@ -6,7 +6,7 @@ A **responsive** Udemy-style website built using **HTML** and **CSS (Media Queri
 - **Home** – Displays featured courses and platform introduction.  
 
 ## Features  
-✔️ **Fully Responsive Design** (Using Media Queries) 📱💻  
+✔️ **Fully Responsive Design** (Using Media Queries)
 ✔️ **Modern UI** inspired by Udemy 🎨  
 ✔️ **Course Listings** with categories 📚  
 ✔️ **Simple & Clean Code Structure** 🖥️  
@@ -16,7 +16,7 @@ A **responsive** Udemy-style website built using **HTML** and **CSS (Media Queri
 - **CSS3 (Media Queries for Responsiveness)**  
 
 ## Live Demo  
-[View the live site](#)
+[View the live site](https://vazanth1811.github.io/Udemy/)
 
 ## Customization  
 You can edit the **HTML & CSS files** to modify the layout, colors, and content as per your needs.  
